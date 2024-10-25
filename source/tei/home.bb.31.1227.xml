@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><TEI.2 id="home.bb.31.1227.xml"><teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Land Entry Case Files of the Broken Bow Land Office, Broken Bow, Nebraska</title>
+<title level="m" type="sub">Homestead Final Certificates, 1890-1908</title>
+<author></author>
+<principal></principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>DeeAnn Allison</name>
+<name>Zach Bajaber</name>
+<name>Jason Bougger</name>
+<name>Vicki Martin</name>
+<name>Brian Pytlik Zillig</name>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2006</date>
+</edition>
+</editionStmt>
+<publicationStmt><idno>home.bb.31.1227.xml</idno><authority>Homestead National Monument Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2006</date>
+<availability>
+<p>Copyright &#169; 2006 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or rep
+ublication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires ex
+press written consent from the editors and advance notification of the publisher, the University of Nebraska
+&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">National Archives and Records Administration Microfilm Publications</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Land Entry Case Files of the Broken Bow Land Office, Broken Bow, Nebraska</title>
+<author></author>
+<publisher>University of Nebraska-Lincoln, Homestead National Monument of America, and National Archives and
+ Records Administration</publisher>
+<pubPlace>Washington, DC</pubPlace>
+<date value="2005">2005</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term> </term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2006-08-15</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model encoding</item>
+</change>
+</revisionDesc>
+</teiHeader><text>
+<body>
+<head></head><div1 id="bb.31.1227">
+<list>
+<item><label>Claimant Name</label><persName type="claimant">Angelo, Mary M.</persName></item>
+<item><label>Claimant Name (Alternative)</label><persName type="claimant"></persName></item>
+<item><label>Claimant Gender</label><persName type="gender">Female</persName></item>
+<item><label>Claimant Race</label><persName type="race">Not available</persName></item>
+<item><label>Address</label><address><addrLine>Mullen, Hooker County, Nebraska</addrLine></address></item>
+<item><label>Marital Status</label><rs type="marital" reg="">Head</rs></item>
+<item><label>Citizenship</label><rs type="citizenship" reg="">Native</rs></item>
+<item><label>Age</label><num type="age">41</num></item>
+<item><label>Country of Origin or State of Birth</label><placeName rend="origin" reg="Wisconsin">Wisconsin</placeName></item>
+<item><label>Application Number</label><num type="application">1754</num></item>
+<item><label>Application Date</label><num type="date">1900-07-19</num></item>
+<item><label>Application Land Office</label><placeName rend="applicationoffice" reg="Broken Bow, Nebraska">Broken Bow, Nebraska</placeName></item>
+<item><label>Witness 1</label><persName type="witness">Boyer, John C.</persName></item>
+<item><label>Witness 1 (Alternative)</label><persName type="witness"></persName></item>
+<item><label>Witness 2</label><persName type="witness">Long, James L.</persName></item>
+<item><label>Witness 2 (Alternative)</label><persName type="witness"></persName></item>
+<item><label>Final Certificate Number</label><num type="final">1227</num></item>
+<item><label>Final Certificate Application Date</label><date n="final">1902-09-02</date></item>
+<item><label>Legal Description</label><num type="desc">SE4 SW4 Sec. 27; N2 NE4, NE4 NW4 Sec. 34</num></item>
+<item><label>Section</label><num type="sec">27; 34</num></item>
+<item><label>Township</label><num type="town">25N</num></item>
+<item><label>Range</label><num type="range">31W</num></item>
+<item><label>Principal Meridian</label><num type="meridian">6th</num></item>
+<item><label>Acres</label><num type="acres">160</num></item>
+<item><label>Final Certificate Approval Date</label><date n="approval" value="">1903-03-28</date></item>
+<item><label>Clerk</label><persName type="clerk" reg="last, first">C. S. M.</persName></item>
+<!-- <item><label>Final Certificate Recorded Date</label><date n="recorded"></date></item> -->
+<item><label>Land Office Location</label><placeName rend="landoffice" reg="Broken Bow, Nebraska">Broken Bow, Nebraska</placeName></item>
+<item><label>Division</label><placeName rend="division" reg="C">C</placeName></item>
+<item><label>Patented Date</label><date n="patenteddate">1903-05-19</date></item>
+<item><label>Patented Status</label><rs type="status">Approved</rs></item>
+</list>
+<list>
+<head>Initial Documents</head>
+<item>Application</item>
+<item>Affidavit</item>
+<item></item>
+<item>Receiver's Receipt(s)</item>
+</list>
+<list>
+<head>Final Application Type</head>
+<item>Homestead Proof</item>
+</list>
+<list>
+<head>Final Documents</head>
+<item>Proof of Publication with Newspaper Clipping</item>
+<item>Certificate as to Posting of Notice</item>
+<item></item>
+<item>Final Certificate</item>
+<item>Final Affidavit</item>
+<item>Receiver's Receipt(s)</item>
+<item></item>
+<item>Records of Military Service</item>
+<item>Miscellaneous</item>
+</list>
+<list>
+<head>Characters of the Land</head>
+<item></item>
+<item>Prairie</item>
+<item>Grazing</item>
+<item>Farming</item>
+<item></item>
+<item></item>
+</list>
+<list>
+<head>Background Information</head>
+<item>Today's Date: 2007-12-14</item>
+<item>Name: Rhonda Eddy</item>
+<item>Comments: Records of Military Service are for Edwin Angelo. Application to Make Proof. Stamped on the final certificate is the following:  "Patent to contain reservation according to proviso to the Act of Aug. 30, 1890."
+</item>
+</list>
+</div1>
+</body>
+</text>
+</TEI.2>

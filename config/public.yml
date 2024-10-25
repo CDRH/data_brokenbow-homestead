@@ -1,0 +1,17 @@
+# please refer to the datura documentation for a full list of configurable settings
+# any custom settings you create here will be accessible in instances of classes
+# like FileTei and TeiToEs ( @options["setting_name"] )
+# you may also create new environments
+
+# please put any sensitive information or computer specific settings in private.yml!
+
+default:
+  collection: brokenbow
+  collection_desc: Homestead Records Broken Bow Land Office
+development:
+  site_url: https://cdrhdev1.unl.edu/brokenbow
+  es_path: https://cdrhdev1.unl.edu/elastic
+  es_index: cdrhapidev-v1
+production:
+  site_url: https://brokenbow.unl.edu
+  es_path: https://cdrhapi.unl.edu/elastic

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><TEI.2 id="home.bb.16.625.xml"><teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Land Entry Case Files of the Broken Bow Land Office, Broken Bow, Nebraska</title>
+<title level="m" type="sub">Homestead Final Certificates, 1890-1908</title>
+<author></author>
+<principal></principal>
+<respStmt>
+<resp>Project Team</resp>
+<name>DeeAnn Allison</name>
+<name>Zach Bajaber</name>
+<name>Jason Bougger</name>
+<name>Vicki Martin</name>
+<name>Brian Pytlik Zillig</name>
+<name>Katherine Walter</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2006</date>
+</edition>
+</editionStmt>
+<publicationStmt><idno>home.bb.16.625.xml</idno><authority>Homestead National Monument Project</authority>
+<publisher>University of Nebraska&#8211;Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<date>2006</date>
+<availability>
+<p>Copyright &#169; 2006 by University of Nebraska&#8211;Lincoln, all rights reserved. Redistribution or rep
+ublication in any medium, except as allowed under the Fair Use provisions of U.S. copyright law, requires ex
+press written consent from the editors and advance notification of the publisher, the University of Nebraska
+&#8211;Lincoln.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project">National Archives and Records Administration Microfilm Publications</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<title level="m">Land Entry Case Files of the Broken Bow Land Office, Broken Bow, Nebraska</title>
+<author></author>
+<publisher>University of Nebraska-Lincoln, Homestead National Monument of America, and National Archives and
+ Records Administration</publisher>
+<pubPlace>Washington, DC</pubPlace>
+<date value="2005">2005</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="scope">
+<term> </term>
+</keywords>
+<keywords n="scale">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2006-08-15</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Model encoding</item>
+</change>
+</revisionDesc>
+</teiHeader><text>
+<body>
+<head></head><div1 id="bb.16.625">
+<list>
+<item><label>Claimant Name</label><persName type="claimant">Heirs of Hale, Philander</persName></item>
+<item><label>Claimant Name (Alternative)</label><persName type="claimant">Moore, Joshua C., Administrator</persName></item>
+<item><label>Claimant Name (Alternative)</label><persName type="claimant">Moore, J. C.</persName></item>
+<item><label>Claimant Name (Alternative)</label><persName type="claimant">Chapin, John M., heir of Hale, Philander</persName></item>
+<item><label>Claimant Name (Alternative)</label><persName type="claimant">Hale, Philander, deceased</persName></item>
+<item><label>Claimant Gender</label><persName type="gender">Male</persName></item>
+<item><label>Claimant Race</label><persName type="race">Not available</persName></item>
+<item><label>Address</label><address><addrLine>Broken Bow, Custer County, Nebraska</addrLine></address></item>
+<item><label>Marital Status</label><rs type="marital" reg="">Not available </rs></item>
+<item><label>Citizenship</label><rs type="citizenship" reg="">Native</rs></item>
+<item><label>Age</label><num type="age">42</num></item>
+<item><label>Country of Origin or State of Birth</label><placeName rend="origin" reg="Illinois">Illinois</placeName></item>
+<item><label>Application Number</label><num type="application">17145</num></item>
+<item><label>Application Date</label><num type="date">1887-03-05</num></item>
+<item><label>Application Land Office</label><placeName rend="applicationoffice" reg="Grand Island, Nebraska">Grand Island, Nebraska</placeName></item>
+<item><label>Witness 1</label><persName type="witness">Currah, James </persName></item>
+<item><label>Witness 1 (Alternative)</label><persName type="witness"></persName></item>
+<item><label>Witness 2</label><persName type="witness">King, James L.</persName></item>
+<item><label>Witness 2 (Alternative)</label><persName type="witness"></persName></item>
+<item><label>Witness 3</label><persName type="witness">Vannice, Wesley</persName></item>
+<item><label>Witness 3 (Alternative)</label><persName type="witness">Vanice, Wesley</persName></item>
+<item><label>Final Certificate Number</label><num type="final">625</num></item>
+<item><label>Final Certificate Application Date</label><date n="final">1895-03-29</date></item>
+<item><label>Legal Description</label><num type="desc">N2 NW4</num></item>
+<item><label>Section</label><num type="sec">31</num></item>
+<item><label>Township</label><num type="town">17N</num></item>
+<item><label>Range</label><num type="range">20W</num></item>
+<item><label>Principal Meridian</label><num type="meridian">6th</num></item>
+<item><label>Acres</label><num type="acres">79.26</num></item>
+<item><label>Final Certificate Approval Date</label><date n="approval" value="">1896-06-25</date></item>
+<item><label>Clerk</label><persName type="clerk" reg="last, first"> J. W. A. and J. F. P,</persName></item>
+<!-- <item><label>Final Certificate Recorded Date</label><date n="recorded"></date></item> -->
+<item><label>Land Office Location</label><placeName rend="landoffice" reg="Broken Bow">Broken Bow, Nebraska</placeName></item>
+<item><label>Division</label><placeName rend="division" reg="C">C</placeName></item>
+<item><label>Patented Date</label><date n="patenteddate">1896-07-06</date></item>
+<item><label>Patented Status</label><rs type="status">Approved</rs></item>
+</list>
+<list>
+<head>Initial Documents</head>
+<item>Application</item>
+<item>Affidavit</item>
+<item></item>
+<item>Receiver's Receipt(s)</item>
+</list>
+<list>
+<head>Final Application Type</head>
+<item>Homestead Proof</item>
+</list>
+<list>
+<head>Final Documents</head>
+<item>Proof of Publication with Newspaper Clipping</item>
+<item>Certificate as to Posting Notice</item>
+<item></item>
+<item>Final Certificate</item>
+<item>Final Affidavit</item>
+<item>Receiver's Receipt(s)</item>
+<item></item>
+<item></item>
+<item>Miscellaneous</item>
+</list>
+<list>
+<head>Characters of the Land</head>
+<item></item>
+<item></item>
+<item></item>
+<item>Farming</item>
+<item></item>
+<item></item>
+</list>
+<list>
+<head>Background Information</head>
+<item>Today's Date: 2007-08-28</item>
+<item>Name: Jim Fejfar</item>
+<item>Comments: Notations on application. File contains affidavit attesting to the identity of Joshua Moore, and appointment of him as Administrator of the Philander Hale estate, affidavit of lost duplicate receiver's receipt, affidavit that there is error in name of witness. Affidavit by John M. Chapin swearing that he is the legiteee and only surviving heir of entryman Philander Hale. Second set of proofs with Chapin as claimant.</item>
+</list>
+</div1>
+</body>
+</text>
+</TEI.2>
