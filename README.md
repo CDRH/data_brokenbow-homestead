@@ -6,9 +6,9 @@
 
 ### Script Languages: Ruby
 
-### Encoding Schema:** [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
+### Encoding Schema: [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
 
-## About
+## About the Project
 
 The Homestead Act of 1862, in effect for 123 years, put land into the hands of settlers and farmers in the American West. It offered land grants of 160 acres in exchange for filing and demonstrating within five years improvements to the land. The claimant did not have to be a U.S. citizen as long as the intent to become a citizen was declared, and women and African Americans could homestead. Much of the West was settled largely through this Act signed by President Abraham Lincoln.  
 
@@ -30,7 +30,6 @@ Funds for the project were received from the National Park Service, the Universi
 
 - Richard C. Edwards
 - Katherine Walter
-
 - Karin Dalziel
 - Vicki Martin
 - Stacy Rickel
