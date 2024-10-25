@@ -2,11 +2,9 @@
 
 ## About This Data Repository
 
-### Source Files: TEI XML
-
-### Script Languages: Ruby
-
-### Encoding Schema: [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
+- Source Files: TEI XML
+- Script Languages: Ruby
+- Encoding Schema: [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html)
 
 ## About the Project
 
