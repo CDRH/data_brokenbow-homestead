@@ -85,6 +85,7 @@
   
   <xsl:template match="text">
     <div class="results">
+      <h1 class="record_title">Claimant: <xsl:value-of select="$claimant"/>; Application Date: <xsl:value-of select="$appDate"/></h1>
       <xsl:apply-templates/>
     </div>
   </xsl:template>
